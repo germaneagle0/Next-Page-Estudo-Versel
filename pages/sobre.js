@@ -1,13 +1,14 @@
 import { useState } from 'react';
-import Link from 'next/link'
+import Link from 'next/link';
 
-function Home() {
+function Sobre() {
     return (
         <div>
-            <h1> Home </h1>
+            <h1> Sobre </h1>
             <Link>
-                <a href='/sobre'>Home</a>
+                <a href='/'>Sobre</a>
             </Link>
+            
             <Contador />
         </div>
     )
@@ -30,4 +31,4 @@ function Contador() {
     )
 }
 
-export default Home;
+export default Sobre;
