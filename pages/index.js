@@ -7,7 +7,6 @@ function Home() {
             <Link href='/sobre'>
                 <a>Sobre</a>
             </Link>
-            <Contador />
         </div>
     )
 }
