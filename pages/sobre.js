@@ -1,4 +1,3 @@
-import { useState } from 'react';
 import Link from 'next/link';
 
 function Sobre() {
@@ -13,22 +12,4 @@ function Sobre() {
         </div>
     )
 }
-
-function Contador() {
-    const [contador, setContador] = useState(1)
-
-    function adicionarContador(){
-        setContador(contador + 1);
-    }
-    
-    return (
-        <div>
-            <button onClick={adicionarContador}>
-                CLICA EM MIM
-            </button>
-            <div>{contador}</div>
-        </div>
-    )
-}
-
 export default Sobre;
