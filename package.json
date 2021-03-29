@@ -1,5 +1,5 @@
 {
-  "name": "Next-Page-Estudo",
+  "name": "Next-Page-Estudo-Versel",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/germaneagle0/Next-Page-Estudo.git"
+    "url": "git+https://github.com/germaneagle0/Next-Page-Estudo-Versel.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/germaneagle0/Next-Page-Estudo/issues"
+    "url": "https://github.com/germaneagle0/Next-Page-Estudo-Versel/issues"
   },
-  "homepage": "https://github.com/germaneagle0/Next-Page-Estudo#readme",
+  "homepage": "https://github.com/germaneagle0/Next-Page-Estudo-Versel#readme",
   "dependencies": {
     "next": "^10.0.9",
     "react": "^17.0.2",
